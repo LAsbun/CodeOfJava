@@ -1,4 +1,4 @@
-package ch5p2_Runnable_differ_Thread;
+package ch5p2Runnable_differ_Thread;
 
 public class Test {
 

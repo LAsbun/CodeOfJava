@@ -1,4 +1,4 @@
-package ch5p1_createthread;
+package ch5p1Createthread;
 
 /*
  * 这是利用实现接口Runnable里面的run函数　

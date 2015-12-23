@@ -1,4 +1,4 @@
-package ch5p1_createthread;
+package ch5p1Createthread;
 
 public class Test {
 	public static void main(String[] args){
