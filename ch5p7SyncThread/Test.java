@@ -13,9 +13,9 @@ public class Test {
 		
 		t1.setPriority(1);
 		t1.start();
-		Thread t2 = new Thread(temp, "窗口2");t2.setPriority(10);
+		Thread t2 = new Thread(temp, "窗口2");t2.setPriority(10);t2.start();
 		Thread t3 = new Thread(temp, "窗口3");
-		t2.start();
+		
 		t3.start();
 		new Thread(temp, "窗口4").start();
 		
